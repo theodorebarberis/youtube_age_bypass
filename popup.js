@@ -3,7 +3,7 @@
 // found in the LICENSE file.
 
 'use strict';
-//alert("hi");
+//alert("hi motherf@cker");
 var urlT,vars,site;
 
 chrome.tabs.getSelected(null, function(tab) {
